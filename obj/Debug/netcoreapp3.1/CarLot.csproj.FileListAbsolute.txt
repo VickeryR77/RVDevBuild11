@@ -1,0 +1,13 @@
+C:\Users\RVICKERY\source\repos\CarLot\obj\Debug\netcoreapp3.1\CarLot.csprojAssemblyReference.cache
+C:\Users\RVICKERY\source\repos\CarLot\obj\Debug\netcoreapp3.1\CarLot.AssemblyInfoInputs.cache
+C:\Users\RVICKERY\source\repos\CarLot\obj\Debug\netcoreapp3.1\CarLot.AssemblyInfo.cs
+C:\Users\RVICKERY\source\repos\CarLot\obj\Debug\netcoreapp3.1\CarLot.csproj.CoreCompileInputs.cache
+C:\Users\RVICKERY\source\repos\CarLot\bin\Debug\netcoreapp3.1\CarLot.exe
+C:\Users\RVICKERY\source\repos\CarLot\bin\Debug\netcoreapp3.1\CarLot.deps.json
+C:\Users\RVICKERY\source\repos\CarLot\bin\Debug\netcoreapp3.1\CarLot.runtimeconfig.json
+C:\Users\RVICKERY\source\repos\CarLot\bin\Debug\netcoreapp3.1\CarLot.runtimeconfig.dev.json
+C:\Users\RVICKERY\source\repos\CarLot\bin\Debug\netcoreapp3.1\CarLot.dll
+C:\Users\RVICKERY\source\repos\CarLot\bin\Debug\netcoreapp3.1\CarLot.pdb
+C:\Users\RVICKERY\source\repos\CarLot\obj\Debug\netcoreapp3.1\CarLot.dll
+C:\Users\RVICKERY\source\repos\CarLot\obj\Debug\netcoreapp3.1\CarLot.pdb
+C:\Users\RVICKERY\source\repos\CarLot\obj\Debug\netcoreapp3.1\CarLot.genruntimeconfig.cache
